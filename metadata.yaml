@@ -1,0 +1,34 @@
+_repo: Woodcraft-and-Camping_34607
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sears, George Washington
+    alias: Nessmuk
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '26594'
+    url: http://www.gutenberg.org/2009/agents/26594
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington_Sears
+description: One of America's most famous woodsmen and nature experts provides classic
+  instructions for roughing it. His advice covers camping, hiking, building a fire,
+  cooking out, shelters, tools and equipment, hunting and fishing, canoeing, and more.
+  Useful, specific information and suggestions on all aspects of woodcraft. ? Moor
+  and Mountain.
+gutenberg_bookshelf: Camping
+gutenberg_issued: '2010-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34607'
+  lccn: '63021680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping'
+- !lcc 'SK'
+title: Woodcraft and Camping
+url: http://www.gutenberg.org/ebooks/34607
